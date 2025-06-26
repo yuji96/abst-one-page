@@ -4,7 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = ["openreview-py>=1.50.1"]
+dependencies = [
+    "openreview-py>=1.50.1",
+    "pandas>=2.3.0",
+    "pyyaml>=6.0.2",
+]
 
 [dependency-groups]
 dev = ["ipykernel>=6.29.5", "ipywidgets>=8.1.7"]

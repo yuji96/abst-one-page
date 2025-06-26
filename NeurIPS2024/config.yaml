@@ -1,0 +1,33 @@
+include:
+  - natural_language_processing
+  - reinforcement_learning
+  - diffusion_based_models
+  - deep_learning_architectures
+  - interpretability_and_explainability
+  - neuroscience_and_cognitive_science
+  - privacy
+  - causal_inference
+  - machine_learning_for_healthcare
+  - online_learning
+  - bandits
+  - algorithmic_game_theory
+  - fairness
+  - evaluation
+  - robotics
+  - speech_and_audio
+  - infrastructure
+  - active_learning
+  - human-AI_interaction
+  - machine_learning_for_social_sciences
+  - other
+exclude:
+  - machine_vision
+  - learning_theory
+  - generative_models
+  - optimization
+  - safety_in_machine_learning
+  - machine_learning_for_other_sciences_and_fields
+  - probabilistic_methods
+  - optimization_for_deep_networks
+  - graph_neural_networks
+  - machine_learning_for_physical_sciences
